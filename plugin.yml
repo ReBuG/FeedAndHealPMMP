@@ -1,0 +1,12 @@
+name: FeedAndHeal
+version: 1.0
+api: 3.0.0
+author: TheOriginDeveloppement
+website: https://github.com/TheOriginDeveloppement
+main: Cmd\Main
+
+commands: 
+ feed:
+  description: Feed command
+ heal:
+  descritpion: Heal Command
